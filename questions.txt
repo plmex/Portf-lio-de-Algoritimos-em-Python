@@ -1,0 +1,320 @@
+# Pergunta 1
+Qual é o maior planeta do sistema solar?
+a) Terra
+b) Júpiter
+c) Saturno
+d) Marte
+Resposta: b
+
+# Pergunta 2
+Quem escreveu a obra "Dom Casmurro"?
+a) José de Alencar
+b) Machado de Assis
+c) Lima Barreto
+d) Graciliano Ramos
+Resposta: b
+
+# Pergunta 3
+Qual é a capital do Canadá?
+a) Toronto
+b) Vancouver
+c) Ottawa
+d) Montreal
+Resposta: c
+
+# Pergunta 4
+Quem pintou a obra "Mona Lisa"?
+a) Michelangelo
+b) Leonardo da Vinci
+c) Vincent van Gogh
+d) Pablo Picasso
+Resposta: b
+
+# Pergunta 5
+Em que ano ocorreu a Revolução Francesa?
+a) 1776
+b) 1789
+c) 1812
+d) 1848
+Resposta: b
+
+# Pergunta 6
+Qual é o elemento químico representado pela letra 'Fe' na tabela periódica?
+a) Ferro
+b) Ouro
+c) Prata
+d) Zinco
+Resposta: a
+
+# Pergunta 7
+Quem foi o primeiro presidente dos Estados Unidos?
+a) Thomas Jefferson
+b) Abraham Lincoln
+c) George Washington
+d) John F. Kennedy
+Resposta: c
+
+# Pergunta 8
+Qual é o país mais populoso do mundo?
+a) Rússia
+b) Estados Unidos
+c) China
+d) Índia
+Resposta: d
+
+# Pergunta 9
+Qual é o único mamífero capaz de voar?
+a) Morcego
+b) Esquilo
+c) Pássaro
+d) Pterossauro
+Resposta: a
+
+# Pergunta 10
+Quem foi o primeiro homem a pisar na Lua?
+a) Neil Armstrong
+b) Buzz Aldrin
+c) Alan Shepard
+d) John Glenn
+Resposta: a
+
+# Pergunta 11
+Quem foi o autor da teoria da relatividade?
+a) Isaac Newton
+b) Albert Einstein
+c) Galileu Galilei
+d) Stephen Hawking
+Resposta: b
+
+# Pergunta 12
+Qual é o rio mais longo do mundo?
+a) Rio Amazonas
+b) Rio Nilo
+c) Rio Mississipi
+d) Rio Yangtzé
+Resposta: a
+
+# Pergunta 13
+Qual é o maior oceano do mundo em extensão?
+a) Oceano Atlântico
+b) Oceano Pacífico
+c) Oceano Índico
+d) Oceano Ártico
+Resposta: b
+
+# Pergunta 14
+Quem pintou o teto da Capela Sistina, no Vaticano?
+a) Leonardo da Vinci
+b) Rafael
+c) Michelangelo
+d) Caravaggio
+Resposta: c
+
+# Pergunta 15
+Qual é o número atômico do carbono?
+a) 6
+b) 12
+c) 14
+d) 22
+Resposta: a
+
+# Pergunta 16
+Quem foi o primeiro homem a realizar uma viagem espacial?
+a) Yuri Gagarin
+b) Neil Armstrong
+c) Buzz Aldrin
+d) Alan Shepard
+Resposta: a
+
+# Pergunta 17
+Qual é o animal símbolo do Brasil?
+a) Onça-pintada
+b) Arara-azul
+c) Tucano
+d) Mico-leão-dourado
+Resposta: b
+
+# Pergunta 18
+Quem escreveu "A Metamorfose"?
+a) Franz Kafka
+b) Fyodor Dostoevsky
+c) Leo Tolstoy
+d) Ernest Hemingway
+Resposta: a
+
+# Pergunta 19
+Qual é a distância média entre a Terra e o Sol?
+a) 93 milhões de milhas
+b) 150 milhões de quilômetros
+c) 93 milhões de quilômetros
+d) 150 milhões de milhas
+Resposta: c
+
+# Pergunta 20
+Qual é a montanha mais alta do mundo?
+a) Monte Everest
+b) K2
+c) Annapurna
+d) Kanchenjunga
+Resposta: a
+
+# Pergunta 21
+Em que ano ocorreu a independência do Brasil?
+a) 1808
+b) 1822
+c) 1889
+d) 1900
+Resposta: b
+
+# Pergunta 22
+Quem escreveu "A Divina Comédia"?
+a) Dante Alighieri
+b) William Shakespeare
+c) Geoffrey Chaucer
+d) Miguel de Cervantes
+Resposta: a
+
+# Pergunta 23
+Qual é a capital da Argentina?
+a) Buenos Aires
+b) Rio de Janeiro
+c) Santiago
+d) Bogotá
+Resposta: a
+
+# Pergunta 24
+Quem foi o líder da Revolução Cubana em 1959?
+a) Fulgencio Batista
+b) Che Guevara
+c) Fidel Castro
+d) Ernesto Cardenal
+Resposta: c
+
+# Pergunta 25
+Quem escreveu "Orgulho e Preconceito"?
+a) Charlotte Brontë
+b) Emily Brontë
+c) Jane Austen
+d) Virginia Woolf
+Resposta: c
+
+# Pergunta 26
+Quem é considerado o pai da psicanálise?
+a) Sigmund Freud
+b) Carl Jung
+c) Alfred Adler
+d) Wilhelm Reich
+Resposta: a
+
+# Pergunta 27
+Em que ano a Primeira Guerra Mundial começou?
+a) 1905
+b) 1914
+c) 1918
+d) 1939
+Resposta: b
+
+# Pergunta 28
+Qual é a maior cordilheira do mundo?
+a) Montanhas Rochosas
+b) Andes
+c) Himalaias
+d) Alpes
+Resposta: b
+
+# Pergunta 29
+Quem pintou "Noite Estrelada"?
+a) Pablo Picasso
+b) Vincent van Gogh
+c) Salvador Dalí
+d) Claude Monet
+Resposta: b
+
+# Pergunta 30
+Qual é o país de maior extensão territorial da América do Sul?
+a) Brasil
+b) Argentina
+c) Chile
+d) Colômbia
+Resposta: a
+
+# Pergunta 31
+Qual é o maior animal terrestre?
+a) Elefante africano
+b) Girafa
+c) Hipopótamo
+d) Rinoceronte
+Resposta: a
+
+# Pergunta 32
+Quem foi o primeiro presidente do Brasil após a redemocratização em 1985?
+a) Fernando Collor de Mello
+b) José Sarney
+c) Itamar Franco
+d) Tancredo Neves
+Resposta: d
+
+# Pergunta 33
+Quem foi o inventor do telefone?
+a) Alexander Graham Bell
+b) Thomas Edison
+c) Nikola Tesla
+d) Guglielmo Marconi
+Resposta: a
+
+# Pergunta 34
+Qual é o símbolo químico da prata?
+a) Ag
+b) Au
+c) Fe
+d) Pb
+Resposta: b
+
+# Pergunta 35
+Quem é considerado o "pai da filosofia ocidental"?
+a) Platão
+b) Aristóteles
+c) Sócrates
+d) Tales de Mileto
+Resposta: c
+
+# Pergunta 36
+Qual é a velocidade da luz no vácuo?
+a) 299.792.458 metros por segundo
+b) 186.282 milhas por segundo
+c) 299.792 quilômetros por segundo
+d) 1.080.000.000 quilômetros por hora
+Resposta: a
+
+# Pergunta 37
+Quem escreveu "O Morro dos Ventos Uivantes"?
+a) Emily Brontë
+b) Charlotte Brontë
+c) Jane Austen
+d) Virginia Woolf
+Resposta: a
+
+# Pergunta 38
+Quem foi o autor da obra "O Pequeno Príncipe"?
+a) Antoine de Saint-Exupéry
+b) J.K. Rowling
+c) Charles Dickens
+d) Mark Twain
+Resposta: a
+
+# Pergunta 39
+Qual é o número atômico do hidrogênio?
+a) 1
+b) 2
+c) 3
+d) 4
+Resposta: a
+
+# Pergunta 40
+Qual é o resultado da operação matemática: 
+(4×3)+(8÷2)?
+a) 10
+b) 14
+c) 16
+d) 20
+Resposta: c
