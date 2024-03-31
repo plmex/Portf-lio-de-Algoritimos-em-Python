@@ -35,8 +35,8 @@ answerUser = str(input('Opção: ')).upper()[0]
 contador = 0
 if answerUser not in "SN":
     while answerUser not in "SN":
-        print('Opção inválida! Tente novamente.')
-        print(f'{nome}, você deseja jogar? Digite S para sim e N para não.')
+        console.print('Opção inválida! Tente novamente.')
+        console.print(f'{nome}, você deseja jogar? Digite S para sim e N para não.')
         answerUser = str(input('Opção: ')).upper()[0]
 elif answerUser == 'N':
     quit()
